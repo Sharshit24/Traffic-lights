@@ -6,9 +6,9 @@ function App() {
 
   const lights = ['red', 'green', 'yellow'];
   const timings = {
-    red: 600,
-    green: 400,
-    yellow: 300,
+    red: 200,
+    green: 150,
+    yellow: 100,
   };
 
   const lightColors = {
